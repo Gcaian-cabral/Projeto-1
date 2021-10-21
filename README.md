@@ -1,2 +1,6 @@
 # Projeto-1
-Projeto do cliente CTRL CODE
+Processo Trainee - IJunior
+
+Capacitação - NodeJS e React
+
+Server com modelo de banco de dados.
